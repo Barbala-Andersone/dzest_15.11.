@@ -1,1 +1,1 @@
-GIT ir sarežģīts
+GIT ir sarežģīts.
